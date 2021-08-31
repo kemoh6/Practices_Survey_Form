@@ -1,0 +1,30 @@
+body{
+    background-color: limegreen;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    padding-top: 30px;
+    color: white;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+}
+
+#name-label{
+    font-size: 20px;
+    color: white;
+}
+
+#email-label{
+    font-size: 20px;
+    color: white;
+}
+
+#number-label{
+    font-size: 20px;
+    color: white;
+}
